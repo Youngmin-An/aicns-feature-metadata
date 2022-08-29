@@ -8,7 +8,7 @@ setup(
     author_email="youngmin.develop@gmail.com",
     license="Apache License 2.0",
     url="https://github.com/Youngmin-An/aicns-feature-metadata",
-    packages=find_packages(),
+    packages=find_packages(exclude=("tests",)),
     install_requires=[
         "mongoengine==0.24.2",
     ],
