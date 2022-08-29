@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="aicns_feature_meatadata",
-    version="0.0.1",
+    version="0.0.2",
     description="Feature metadata fetching library package in AICNS project",
     author="Youngmin An",
     author_email="youngmin.develop@gmail.com",
