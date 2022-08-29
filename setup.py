@@ -7,7 +7,7 @@ setup(
     author="Youngmin An",
     author_email="youngmin.develop@gmail.com",
     license="Apache License 2.0",
-    url="https://github.com/Youngmin-An/aicns-feature-metadata/tree/aicns-22-migrate-feature-metadata-package-sources",
+    url="https://github.com/Youngmin-An/aicns-feature-metadata",
     packages=find_packages(),
     install_requires=[
         "mongoengine==0.24.2",
